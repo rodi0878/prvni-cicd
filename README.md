@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/rodi0878/prvni-cicd/actions/workflows/maven.yml/badge.svg)](https://github.com/rodi0878/prvni-cicd/actions/workflows/maven.yml)
+
 # Spring Boot JWT Authentication example with Spring Security & Spring Data JPA
 
 ## User Registration, User Login and Authorization process.
